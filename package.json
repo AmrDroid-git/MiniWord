@@ -1,0 +1,14 @@
+{
+  "name": "mini_word_test",
+  "version": "1.0.0",
+  "description": "modifier le mot test en choisissant couleur/taille/font_family",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Slama Amr",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

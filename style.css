@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#big-container {
+    background-color: rgb(230, 234, 238);
+    height: 300px;
+    width: 700px;
+}
+
+
+
+input.form-control,
+select.form-select {
+    height: 40px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+#favcolor {
+    padding: 10px;
+}
+
+.test {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    color: red;
+}
